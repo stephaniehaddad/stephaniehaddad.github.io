@@ -1,4 +1,4 @@
-#Assignment Questions
+# Assignment Questions
  
 1.When should you use Git for a project?
 Git is a useful method at keeping track of previous version of a project. If multiple collaborators are working on the same file, the project can be worked on simultaneously from different computers. Keeping track of codes used for any computing or statistical needs is easy because the changes are all tracked. This means, if a change is made that causes an error or conflict, or if the previous version is preferred but the script forgotten, you don't have to worry about remembering what the syntax changes were.
